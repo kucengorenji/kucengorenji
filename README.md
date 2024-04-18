@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kucengorenji&color=green" />
   <a href="https://linkedin.com/in/mikaelrisyad"><img src="https://img.shields.io/badge/-Mikael Risyad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <p align="center">🌱 I’m currently learning Fullstack Web Development (Javascript - PERN)</p>
+  <p align="center">🌱 I’m currently learning Web Development</p>
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
